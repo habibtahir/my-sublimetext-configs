@@ -17,5 +17,5 @@
 	"theme": "Adaptive.sublime-theme",
 	"index_files": false,
 	"show_git_status": false,
-	"word_wrap": "true"
+	"word_wrap": true
 }
