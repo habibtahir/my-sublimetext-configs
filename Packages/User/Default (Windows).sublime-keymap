@@ -1,0 +1,16 @@
+[
+	{ "keys": ["ctrl+shift+k"], "command": "expand_selection", "args": {"to": "line"} },
+	{ "keys": ["ctrl+d"], "command": "duplicate_line" },
+	{ "keys": ["ctrl+l"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{
+		"keys": ["ctrl+s"], 
+		"command": "chain", 
+		"args": {
+			"commands": [
+				["reindent", {"single_line": false}],
+				["unexpand_tabs", {"set_translate_tabs": true}],
+				["save"]
+			]
+		}
+	}
+]

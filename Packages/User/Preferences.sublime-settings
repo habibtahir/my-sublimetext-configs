@@ -1,0 +1,21 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Muhammd Habib.tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Fira Code",
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"indent_subsequent_lines": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_speed": 1.5,
+	"set_translate_tabs": true,
+	"theme": "Adaptive.sublime-theme",
+	"index_files": false,
+	"show_git_status": false,
+	"word_wrap": "true"
+}
